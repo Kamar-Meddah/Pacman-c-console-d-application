@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1485359078 source:c:\users\kamar meddah\documents\cpp\z\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<mmsystem.h>
+
