@@ -1,1 +1,1 @@
-# Pacman-c-console-d-application
+# Pacman c++ mode text
